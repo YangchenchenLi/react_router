@@ -1,3 +1,4 @@
 .activeClass {
+  /*如果不想这个样式被覆盖，就加一个！important*/
   color: red !important;
 }
